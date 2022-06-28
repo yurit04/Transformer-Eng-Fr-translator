@@ -4,5 +4,3 @@
 
 * Add 2 data files to "fr-en" directory inside the project's folder (you should have 4 files there now).
 * You're good to go!
-
-# TODO: add software requirements 
